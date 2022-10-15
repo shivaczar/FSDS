@@ -1,1 +1,1 @@
-# This file mainly consists of datascience related assignments and projects.
+# This file mainly consists of fullstack datascience related assignments and projects.
